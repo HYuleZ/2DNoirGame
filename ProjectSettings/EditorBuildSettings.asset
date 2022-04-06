@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 10f06f208f295714d8f7817e1d4891bb
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: edc79757f2fc80c4c960e379561585ec
+  - enabled: 1
+    path: Assets/Scenes/Murder1.unity
+    guid: bfae478b92a40c948b5d06f15155e405
+  - enabled: 1
+    path: Assets/Scenes/Detective1.unity
+    guid: 4fa755ca6077d684dbd7842c30273aec
+  - enabled: 1
+    path: Assets/Scenes/Murder2.unity
+    guid: 00b1b5f36a54cf54d85b921bd621832f
+  - enabled: 1
+    path: Assets/Scenes/Detective2.unity
+    guid: 7612f42504801fe4cb1c219558206c41
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: ecdafd1ecc7545d469f6dfc2fe74f59e
+  - enabled: 0
+    path: Assets/Scenes/FinalLevel.unity
+    guid: cffc9fd1e00e80c4eabea482127e150b
+  m_configObjects: {}
